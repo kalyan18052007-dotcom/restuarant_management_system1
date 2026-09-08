@@ -28,4 +28,4 @@ Fixes made during consolidation include:
 - fixed logout typo
 - fixed order/menu data flow
 - converted multi-page navigation to one HTML single-page application
-https://restuarant-management-system1-9qih.vercel.app/#dashboard
+https://restuarant-management-system1-9qih.vercel.app/#login
